@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ark-funds-monitor/static/css/main.136f4053.chunk.css",
-    "main.js": "/ark-funds-monitor/static/js/main.089a644e.chunk.js",
-    "main.js.map": "/ark-funds-monitor/static/js/main.089a644e.chunk.js.map",
+    "main.css": "/ark-funds-monitor/static/css/main.5e1bcc99.chunk.css",
+    "main.js": "/ark-funds-monitor/static/js/main.ff34903e.chunk.js",
+    "main.js.map": "/ark-funds-monitor/static/js/main.ff34903e.chunk.js.map",
     "runtime-main.js": "/ark-funds-monitor/static/js/runtime-main.3ca9b8fc.js",
     "runtime-main.js.map": "/ark-funds-monitor/static/js/runtime-main.3ca9b8fc.js.map",
     "static/css/2.70891016.chunk.css": "/ark-funds-monitor/static/css/2.70891016.chunk.css",
-    "static/js/2.5ed9122e.chunk.js": "/ark-funds-monitor/static/js/2.5ed9122e.chunk.js",
-    "static/js/2.5ed9122e.chunk.js.map": "/ark-funds-monitor/static/js/2.5ed9122e.chunk.js.map",
+    "static/js/2.156de1ee.chunk.js": "/ark-funds-monitor/static/js/2.156de1ee.chunk.js",
+    "static/js/2.156de1ee.chunk.js.map": "/ark-funds-monitor/static/js/2.156de1ee.chunk.js.map",
     "index.html": "/ark-funds-monitor/index.html",
-    "precache-manifest.a597e69f7457e13d5cf10b782e30b4d4.js": "/ark-funds-monitor/precache-manifest.a597e69f7457e13d5cf10b782e30b4d4.js",
+    "precache-manifest.b5383fdbe4a8724a1637519510746708.js": "/ark-funds-monitor/precache-manifest.b5383fdbe4a8724a1637519510746708.js",
     "service-worker.js": "/ark-funds-monitor/service-worker.js",
     "static/css/2.70891016.chunk.css.map": "/ark-funds-monitor/static/css/2.70891016.chunk.css.map",
-    "static/css/main.136f4053.chunk.css.map": "/ark-funds-monitor/static/css/main.136f4053.chunk.css.map",
-    "static/js/2.5ed9122e.chunk.js.LICENSE.txt": "/ark-funds-monitor/static/js/2.5ed9122e.chunk.js.LICENSE.txt"
+    "static/css/main.5e1bcc99.chunk.css.map": "/ark-funds-monitor/static/css/main.5e1bcc99.chunk.css.map",
+    "static/js/2.156de1ee.chunk.js.LICENSE.txt": "/ark-funds-monitor/static/js/2.156de1ee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3ca9b8fc.js",
     "static/css/2.70891016.chunk.css",
-    "static/js/2.5ed9122e.chunk.js",
-    "static/css/main.136f4053.chunk.css",
-    "static/js/main.089a644e.chunk.js"
+    "static/js/2.156de1ee.chunk.js",
+    "static/css/main.5e1bcc99.chunk.css",
+    "static/js/main.ff34903e.chunk.js"
   ]
 }
